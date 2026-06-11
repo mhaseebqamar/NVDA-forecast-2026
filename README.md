@@ -2,7 +2,7 @@
 ### 5-Day Ahead Price Prediction Using Multi-Model Ensemble
 
 > **Academic Project** — Machine Learning in Python, SGH Warsaw School of Economics, June 2026  
-> **Team QuantX** — Muhammad Haseeb Qamar (148733)
+> **Team QuantX** — Muhammad Haseeb Qamar
 
 ---
 
